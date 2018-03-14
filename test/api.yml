@@ -1,0 +1,10 @@
+
+host: mipaimai.jd.com
+port: 8000
+
+resDir: resdata
+
+apiList:
+  - method: get
+    path: /myMoneyList
+    resPath: myMoneyList.json

@@ -1,0 +1,26 @@
+{
+  "name": "hapi.server",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "afs": "bin/afs"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiadi0801/hapi.server.git"
+  },
+  "author": "jiadi0801",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiadi0801/hapi.server/issues"
+  },
+  "homepage": "https://github.com/jiadi0801/hapi.server#readme",
+  "dependencies": {
+    "hapi": "^17.2.2",
+    "mock-yaml": "^1.0.3"
+  }
+}
