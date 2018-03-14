@@ -1,9 +1,11 @@
 # hapi.server
 测试数据配置
 
+fail to publish as @jiadi0801/hapi.server
+
 ## 安装
 ```
-npm install @jiadi0801/hapi.server -g
+npm install hapi.server -g
 ```
 
 ## 静态文件目录
