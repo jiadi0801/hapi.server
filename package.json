@@ -1,5 +1,5 @@
 {
-  "name": "@jiadi0801/hapi.server",
+  "name": "hapi.server",
   "version": "1.0.0",
   "description": "",
   "bin": {
